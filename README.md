@@ -1,6 +1,14 @@
-### Hi there 👋
+### Hola, Soy Kevin 👋
 
-<--
+Un FullStack Developer en torno a JavaScript con más de 3 años programando y que siempre busca superarse y aprender nuevas tecnologías.
+
+👩🏼‍💻 Soy capaz de implementar requerimientos en Frontend y Backend trabajando en equipo y siguiendo buenas prácticas.
+
+Mis habilidades: Vue, React, Nuxt.js, Node, Express, NestJS, MongoDB, Sequelize
+
+Conóceme más aquí:  👉 https://kevincq.tech
+
+</--
 **oken02/oken02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--/>
